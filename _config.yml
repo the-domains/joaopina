@@ -1,6 +1,6 @@
 name: joaopina
 favicon: null
-layout_spectrum: 0.50022
+layout_spectrum: 0.75815
 typography_spectrum: 0.42133
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#bb6345'
     - '#f88366'
   brandStrength: 0.5
-  lightness: 0.125
-  saturation: 0.5625
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
